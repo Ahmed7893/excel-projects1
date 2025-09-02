@@ -1,0 +1,1 @@
+This repository contains my Excel-based data analysis and visualization projects. Each project demonstrates the use of advanced Excel functions, pivot tables, Power Query, dashboards, and automation (VBA/macros) to solve real-world problems and present insights effectively.
